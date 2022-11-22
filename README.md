@@ -5,7 +5,12 @@ are my favorite things in the world.
 
 ---
 
+artist behind pixel planet today
 founding member and creator of terrabyte
 UNK alum (multimedia, IT, visual comm. & design)
 i like pixel art, bikes, and my cat, blue
 ```
+
+[Pixel Planet Today Website](https://pixelplanettoday.com)<br>
+[Terrabyte Website](https://terrabyte.eco)<br>
+[@Terrabyte-tech on GitHub](https://github.com/terrabyte-tech)
