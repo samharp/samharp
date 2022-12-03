@@ -1,14 +1,19 @@
 ```
+name: sammy harper
+pronouns: he/him
+title: founding member and creator of terrabyte
+alternate: artist behind pixel planet today
+education: multimedia, IT, visual comm. & design (UNK)
+home: omaha, nebraska
+notes: i like pixel art, bikes, and my cat, blue
+
+---
+
 i love nature, design, and technology.
 projects that fall in the middle
 are my favorite things in the world.
 
 ---
-
-artist behind pixel planet today
-founding member and creator of terrabyte
-UNK alum (multimedia, IT, visual comm. & design)
-i like pixel art, bikes, and my cat, blue
 
 (links below for your enjoyment)
 ```
