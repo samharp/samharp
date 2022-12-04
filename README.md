@@ -1,10 +1,9 @@
 ```
-name: sammy harper
-pronouns: he/him
+name: sammy harper (he/him)
 title: founding member and creator of terrabyte
 alternate: artist behind pixel planet today
+alternate alternate: founding member of golden harp media
 education: multimedia, IT, visual comm. & design (UNK)
-home: omaha, nebraska
 notes: i like pixel art, bikes, and my cat, blue
 
 ---
