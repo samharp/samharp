@@ -6,7 +6,7 @@ education: multimedia, IT, visual comm. & design (UNK)
 notes: i like pixel art, bikes, and my cat, blue
 
 a self-administered language assessment
-(no 5 stars because no one is perfect at anything, don't lie):
+(no 5 stars because pobody's nerfect):
 ****_ : html
 ****_ : css
 ***__ : spanish (lol)
