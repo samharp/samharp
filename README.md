@@ -5,6 +5,8 @@ alternate: artist behind pixel planet today
 education: multimedia, IT, visual comm. & design (UNK)
 notes: i like pixel art, bikes, and my cat, blue
 
+---
+
 a self-administered language assessment
 (no 5 stars because pobody's nerfect):
 ****_ : html
@@ -22,9 +24,6 @@ i love nature, design, and technology.
 projects that fall in the middle
 are my favorite things in the world.
 
----
-
-(links below for your enjoyment)
 ```
 
 <br>
