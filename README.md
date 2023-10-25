@@ -3,7 +3,7 @@ name: sammy harper (he/him)
 title: founding member and creator of terrabyte
 alternate: artist behind pixel planet today
 education: multimedia, IT, visual comm. & design (UNK)
-notes: i like pixel art, bikes, and my cat, blue
+notes: i like pixel art, bikes, and my cats (Blue and Luna)
 
 ---
 
@@ -11,7 +11,7 @@ a self-administered language assessment
 (no 5 stars because pobody's nerfect):
 ****_ : html
 ****_ : css
-***__ : spanish (lol)
+***__ : spanish
 ***__ : javascript
 **___ : java
 *____ : php
