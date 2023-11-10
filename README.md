@@ -13,10 +13,11 @@ a self-administered language assessment
 ****_ : css
 ***__ : spanish
 ***__ : javascript
-**___ : java
+**___ : batch
+**___ : python
+*____ : java
 *____ : php
-*____ : batch
-*____ : python
+
 
 ---
 
