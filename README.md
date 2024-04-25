@@ -8,15 +8,16 @@ notes: i like pixel art, bikes, and my cats (Blue and Luna)
 ---
 
 a self-administered language assessment
-(no 5 stars because pobody's nerfect):
-****_ : html
-****_ : css
+(5 is best, not that i'm perfect...):
+***** : html
+***** : css
+****_ : javascript
+***__ : batch
+***__ : python
 ***__ : spanish
-***__ : javascript
-**___ : batch
-**___ : python
+**___ : php
 *____ : java
-*____ : php
+
 
 
 ---
