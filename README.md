@@ -18,8 +18,6 @@ a self-administered language assessment
 **___ : php
 *____ : java
 
-
-
 ---
 
 i love nature, design, and technology.
