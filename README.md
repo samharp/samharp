@@ -31,13 +31,13 @@ are my favorite things in the world.
 
 __Environmental Work__
 
-[Pixel Planet Today: Website](https://pixelplanettoday.com)<br>
-[Wasted Space: Website](https://wastedspace.fun)<br>
-[Terrabyte: Website](https://terrabyte.eco)
-[Green Omaha Coalition: Website](https://greenomaha.org)
+[Pixel Planet Today: Website](https://www.pixelplanettoday.com)<br>
+[Wasted Space: Website](https://www.wastedspace.fun)<br>
+[Terrabyte: Website](https://www.terrabyte.eco)<br>
+[Green Omaha Coalition: Website](https://www.greenomaha.org)
 
 <br>
 
 __Other Work__
 
-[Golden Harp Media: Website](https://goldenharpmedia.com)
+[Golden Harp Media: Website](https://www.goldenharpmedia.com)
