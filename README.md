@@ -1,14 +1,10 @@
 ```
-name: sammy harper (he/him)
-title: founding member and creator of terrabyte
-alternate: artist behind pixel planet today
-education: multimedia, IT, visual comm. & design (UNK)
-notes: i like pixel art, bikes, and my cats (Blue and Luna)
+sammy harper (he/him)
+approachable nature, design, and technology.
+mijos: blue and luna
 
 ---
 
-a self-administered language assessment
-(5 is best, not that i'm perfect...):
 ***** : html
 ***** : css
 ****_ : javascript
@@ -19,25 +15,4 @@ a self-administered language assessment
 *____ : java
 *____ : kotlin
 
----
-
-i love nature, design, and technology.
-projects that fall in the middle
-are my favorite things in the world.
-
 ```
-
-<br>
-
-__Environmental Work__
-
-[Pixel Planet Today: Website](https://www.pixelplanettoday.com)<br>
-[Wasted Space: Website](https://www.wastedspace.fun)<br>
-[Terrabyte: Website](https://www.terrabyte.eco)<br>
-[Green Omaha Coalition: Website](https://www.greenomaha.org)
-
-<br>
-
-__Other Work__
-
-[Golden Harp Media: Website](https://www.goldenharpmedia.com)
