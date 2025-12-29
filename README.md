@@ -1,6 +1,6 @@
 ```
 sammy harper (he/him)
-approachable nature, design, and technology.
+approachable environmentalism through design and technology
 mijos: blue and luna
 
 ---
