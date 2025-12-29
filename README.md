@@ -7,12 +7,12 @@ mijos: blue and luna
 
 ***** : html
 ***** : css
-****_ : javascript
-***__ : batch
-***__ : python
-***__ : spanish
-**___ : php
-*____ : java
-*____ : kotlin
+****- : javascript
+***-- : batch
+***-- : python
+***-- : spanish
+**--- : php
+*---- : java
+*---- : kotlin
 
 ```
